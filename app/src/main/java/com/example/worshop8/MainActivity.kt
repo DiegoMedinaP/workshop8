@@ -1,10 +1,7 @@
 package com.example.worshop8
 
-import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.AttributeSet
-import android.view.View
 import com.example.worshop8.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
